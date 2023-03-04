@@ -5,3 +5,6 @@ print(c)
 
 
 #hello .....how is everyone in your life
+
+
+gugugugi
